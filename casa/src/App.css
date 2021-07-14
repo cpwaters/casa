@@ -14,3 +14,18 @@
   align-items: center;
 }
 
+.navbar a {
+  text-decoration:none;
+  padding: 7px 12px;
+  font-size: 18px;
+  color: #333;
+}
+
+.enter-form {
+  display: flex;
+  align-items: center;
+}
+.enter-form input {
+  margin:0 10px;
+  height:20px;
+}

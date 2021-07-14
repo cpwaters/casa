@@ -8,6 +8,11 @@ const Shopping = () => {
             <h2>Shopping</h2>
             <Food />
             <Household />
+            <form className="enter-form">
+                <label>Enter a product </label>
+                <input type="text" />
+                <button>Save</button>
+            </form>
         </div>
     )
 }
